@@ -195,7 +195,7 @@
 		margin: 200px auto 0 auto;
 		background-image:
 			url("/floor.png"),
-			url("..public/floor.png");
+			url("./../floor.png");
 		background-repeat: repeat-x;
     	background-position: bottom;
 	}
@@ -205,7 +205,7 @@
 		height: 50px;
 		background-image:
 			url("/dino.gif"),
-			url("../public/dino.gif");
+			url("./../dino.gif");
 		position: relative;
 		top: 150px;
 		z-index: -1;
@@ -225,7 +225,7 @@
 	#cloud {
 		background-image:
 			url("/cloud.png"),
-			url("../public/cloud.png");
+			url("./../cloud.png");
 		height: 16px;
 		width: 50px;
 		position: relative;
@@ -237,7 +237,7 @@
 	#bat {
 		background-image:
 			url("/bat.png"),
-			url("../public/bat.png");
+			url("./../bat.png");
 		width: 50px;
 		height: 38px;
 		position: relative;
@@ -249,7 +249,7 @@
 	#cactus {
 		background-image:
 			url("/cactus.png"),
-			url("../public/cactus.png");
+			url("./../cactus.png");
 		width: 20px;
 		height: 37px;
 		position: relative;
