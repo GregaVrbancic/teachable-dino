@@ -4,7 +4,7 @@ Simple webcam controlled game using Teachable Machine model.
 
 ## Live demo
 
-Live demo is available [here.](https://teachable-dino.swarm.grega.xyz/)
+Live demo is available [here.](https://gregavrbancic.github.io/teachable-dino/)
 
 The default trained model has the following gestures supported:
 
